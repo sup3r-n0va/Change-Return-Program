@@ -111,7 +111,7 @@ int main(int argc, char *argv[])
 		else {
 			NumberOfPennies = (change + (0.01 / 2.00)) / 0.01;
 			change = change - 0.01;
-			NumberOfPennies;
+			NumberOfPennies++;
 	
 			
 		}
